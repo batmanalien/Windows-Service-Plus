@@ -3,7 +3,7 @@
 Windows-Service-Plus
 ======================
 
-Windows-Service-Plus is a Visual Studio 2015 Project Template to get you started with a full featured Windows Service based on [TopShelf][1] and pre-loaded with logging, IoC container and more. 
+Windows-Service-Plus is a Visual Studio 2017 Project Template to get you started with a full featured Windows Service based on [TopShelf][1] and pre-loaded with logging, IoC container and more. 
 
 The idea is that you should be able to focus directly on your service logic right from the start, bypassing all the plumbing and boilerplate code.
 
